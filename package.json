@@ -1,0 +1,36 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "resume.json",
+  "repository": "https://github.com/n/a",
+  "author": "Adrien Gibert",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "resume-cli": "^3.0.8"
+  },
+  "devDependencies": {
+    "jsonresume-theme-modern": "0.0.18",
+    "jsonresume-theme-randytarampi": "7.0.0",
+    "jsonresume-theme-flat": "0.3.7",
+    "jsonresume-theme-straightforward": "0.2.0",
+    "jsonresume-theme-kendall": "0.2.0",
+    "jsonresume-theme-crisp": "0.2.12",
+    "jsonresume-theme-stackoverflow": "2.0.0",
+    "jsonresume-theme-actual": "0.2.1",
+    "jsonresume-theme-paper": "0.5.0",
+    "jsonresume-theme-standard-resume": "2.1.0",
+    "jsonresume-theme-classy": "1.0.9",
+    "jsonresume-theme-nominaltech-nl": "0.4.97",
+    "jsonresume-theme-macchiato-macea": "1.0.7",
+    "jsonresume-theme-mooser": "0.2.3",
+    "jsonresume-theme-elegant-maksymgendin": "1.2.0",
+    "jsonresume-theme-onepage": "0.0.3",
+    "jsonresume-theme-spartan": "0.3.0",
+    "jsonresume-theme-short": "0.1.7"
+  },
+  "resolutions": {
+    "html-to-text": "9.0.4"
+  }
+}

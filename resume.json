@@ -1,0 +1,217 @@
+{
+  "basics": {
+    "name": "Adrien Gibert",
+    "label": "Full Stack Developer - 6+ years of experience",
+    "image": "./img/profileImage.jpg",
+    "email": "adriengibert13@gmail.com",
+    "phone": "8048075861",
+    "website": "",
+    "summary": "Within my 7 years of professional experience, I have gained knowledge in 3 different aspects of IT: Front-End Development, Back-End Development, and Automated Quality Assurance Testing. I am primarily a JavaScript programmer; I have had to write Java and Python functionality but I am not proficient.",
+    "location": {
+      "countryCode": "US",
+      "address": "Richmond, VA 23223"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adrien-gibert-FSD",
+        "url": "https://www.linkedin.com/in/adrien-gibert-FSD/"
+      },
+      {
+        "network": "Github",
+        "username": "AGibert13",
+        "url": "https://www.github.com/AGibert13/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Capital One",
+      "endDate": "",
+      "highlights": [
+        "Involved in developing components of single page applications Vue.js",
+        "Implemented emergency caching strategy for REST-API using Elastcache Redis to store multiple data calls using a combination “key”, “field”, and “value” pairs",
+        "Responsible for developing automated unit, integration, and performance test suites",
+        "Created an API layer on a legacy application by modifying Apache Solr configuration and creating Python 3 scripts",
+        "Create and maintain AWS infrastructure such as EC2 servers, Security Groups, Lambda functions, and S3 buckets",
+        "Regularly update application dependencies, such as application packages and AWS machine images, and modify code based on cyber recommendations",
+        "Rebuild API application to remove an external dependency of a deprecated internal module",
+        "Create PagerDuty alerts from Splunk and DataDog application data to identify incidents quickly and mitigate consumer impact",
+        "Perform quarterly AWS regional failover exercises for 3 applications"    
+      ],
+      "position": "Software Engineer (Contract)",
+      "startDate": "2019-02-28",
+      "summary": "I was hired as a contractor to help the developed of the new UI and API for the disclosures, articles, task guides, etc. used by call center agents and other associates in Capital One.",
+      "website": "https://www.linkedin.com/company/1419"
+    },
+    {
+      "company": "Quotum Technologies",
+      "endDate": "",
+      "highlights": [
+        "Trained in the basics of the MongoDB, Express, React, AngularJS & Angular 2+, and Node.js",
+        "Used Firebase Real Time database to receive data from POST, PUT, DELETE, and GET API calls",
+        "Mock interviews given every week to ensure knowledge of basic Front–End vernacular",
+        "Created a “Social media” SPA as the final project to represent an overall understanding of the programming principles taught"
+      ],
+      "position": "IT Consultant",
+      "startDate": "2018-09-30",
+      "summary": "I am managed by this company for my contract with Capital One. They provide developers with training before being sent to work on projects.",
+      "website": "https://www.linkedin.com/company/18351932"
+    },
+    {
+      "company": "Bridgevine, Inc. (acquired by Updater)",
+      "endDate": "2018-09-30",
+      "highlights": [
+        "Helped develop UI automation test suite for multiple platforms using Jasmine and WebDriverIO",
+        "Performed manual testing for tickets (development, defects, etc) in their respective sprint",
+        "Regularly run automation suite to check stability of the platform",
+        "Perform regression testing for monthly releases to ensure application stability after deployment"
+      ],
+      "position": "Associate Automation Engineer",
+      "startDate": "2017-03-31",
+      "summary": "I was hired to develop an automated test script and perform manual testing to remove an outsourced contract on regression testing.",
+      "website": "https://www.linkedin.com/company/25771"
+    },
+    {
+      "company": "Carters Inc.",
+      "endDate": "2017-01-31",
+      "highlights": [
+        "Create documentation of Carter’s applications for store iPod devices to enhance customer experience",
+        "Push applications to over 600 stores using the AirWatch Console",
+        "Troubleshoot store iPod device tickets dealing with the applications and connectivity issues",
+        "Actively developed VBA program in Excel resulting in improved daily operation",
+        "Created a VBA function to control user pasting that was implemented in tools currently used"
+      ],
+      "position": "Software Development Intern",
+      "startDate": "2016-08-31",
+      "summary": "I experinecd both Level 3 Support for store associates and was tasked to develop an application in Excel to generate styles.",
+      "website": "https://www.linkedin.com/company/14242"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Digital Youth Founders",
+      "position": "IT Volunteer",
+      "website": "https://www.facebook.com/techsproutclub",
+      "startDate": "2016-09-30",
+      "endDate": "2017-05-31",
+      "summary": "Through the YearUp program, I volunteered to be a mentor to students working on business applications. Afterwards, I was offered the opportunity to teach an after-school IT class.",
+      "highlights": [
+        "Mentored the DYF students phases of the SDLC towards a project they were trying to create and developing their presentation skills of a business concept",
+        "Taught an after-school class on Scratch and Code.org to 3rd-5th grade students"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Year Up",
+      "area": "Front-End Development and Quality Assurance",
+      "studyType": "Certificate of Completion",
+      "startDate": "2016-02-28",
+      "endDate": "2017-01-31",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End Tech:",
+      "level": "",
+      "keywords": [
+        "HTML/CSS/JS",
+        "jQuery",
+        "SPA Frameworks: Vue, Angular, React",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Back End Tech",
+      "level": "",
+      "keywords": [
+        "Python (2,3)",
+        "Apache Solr",
+        "Perl",
+        "Node.js",
+        "Package Managers: NPM, Yarn",
+        "JS Frameworks: Node.js, Fastify, Express, Next.js",
+        "VirtualBox",
+        "Vagrant"
+      ]
+    },
+    {
+      "name": "Test Tools",
+      "level": "",
+      "keywords": [
+        "Cypress.io",
+        "Cucumber/Gherkin",
+        "Mocha",
+        "Jest",
+        "Sinon",
+        "Chai",
+        "Jasmine",
+        "WebdriverIO",
+        "Browserify",
+        "Appium"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "AWS Services",
+      "level": "",
+      "keywords": [
+        "EC2",
+        "S3",
+        "ECS",
+        "Lambda",
+        "IAM",
+        "CloudWatch",
+        "Elasticache",
+        "OpenSearch"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MongoDB", 
+        "Microsoft Access", 
+        "Firestore",
+        "Redis",
+        "Microsoft SQL"
+      ]
+    },
+    {
+      "name": "Linux Admin",
+      "level": "",
+      "keywords": ["Ubuntu", "centOS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Mahesh Nair",
+      "relationship": "Team/Tech Lead - Senior Manager",
+      "phone": "(804) 836-5656",
+      "email": "mahesh.bahulleyannair@capitalone.com"
+    },
+    {
+      "name": "Hima Bindu Koppula",
+      "relationship": "Lead Senior Software Engineer",
+      "phone": "(214) 236-0325",
+      "email": "himabindu.koppula@capitalone.com"
+    }
+  ]
+}
